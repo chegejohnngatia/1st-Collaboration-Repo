@@ -185,3 +185,14 @@ so that it is smooth among other more minor things */
   height: 100%;
   padding: 10px;
 }
+@media(max-width:768px){
+  #body{
+    background-color:azure;
+    color: darkblue;
+    font-family: sans-serif;
+  }
+  h1{
+    font-weight: bold;
+
+  }
+}

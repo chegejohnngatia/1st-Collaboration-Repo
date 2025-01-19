@@ -144,6 +144,8 @@ so that it is smooth among other more minor things */
   width: 10em;
   justify-items: center;
   height: 3em;
+  margin-bottom: 20px;
+  
 }
 
 .codepen-button::before {
@@ -181,4 +183,5 @@ so that it is smooth among other more minor things */
   background: #000;
   border-radius: 3px;
   height: 100%;
+  padding: 10px;
 }
